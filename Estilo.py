@@ -1,6 +1,6 @@
 estilo = turtle.Turtle()
 estilo.speed(0)
-estilo.color("white")
+estilo.color("white)
 estilo.penup()
 estilo.hideturtle()
 estilo.goto(0, 260)
