@@ -1,1 +1,5 @@
-
+wn.listen()
+wn.onkeypress(raqueta_a_arriba, "w")
+wn.onkeypress(raqueta_a_abajo, "s")
+wn.onkeypress(raqueta_b_arriba, "Up")
+wn.onkeypress(raqueta_b_abajo, "Down")
